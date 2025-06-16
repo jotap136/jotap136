@@ -1,5 +1,9 @@
 ## Olá, meu nome é João Paulo e sou estudante na área de programação
 
+ - tenho 19 anos e atualmente faço ADS no SENAC
+ - Esse repositório no momento serve apenas para guardar alguns projetos e exercicios de lógica de programação
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotap136&show_icons=true&theme=dracula)
 
 <div style="display: inline_block"><br>
@@ -13,7 +17,6 @@
 </div>
 <br>
 <br>
-
 <div>
   <a href="https://instagram.com/jotap_136" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/joao-paulo-cordeiro-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
