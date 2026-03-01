@@ -1,6 +1,6 @@
 ## Olá, meu nome é João Paulo e sou estudante na área de programação
 
- - tenho 19 anos e atualmente faço ADS no SENAC
+ - tenho 20 anos e atualmente faço ADS no SENAC
  - Esse repositório no momento serve apenas para guardar alguns projetos e exercicios de lógica de programação
 
 
